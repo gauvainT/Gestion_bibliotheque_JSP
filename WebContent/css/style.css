@@ -1,0 +1,16 @@
+html{
+	font-size: 62.5%;
+	box-sizing: border-box;
+}
+body{
+	font-size: 1.6rem;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+
+main table{
+	border-collapse: collapse;
+}
+main table tr td{
+	border: 1px solid black;
+}
