@@ -1,0 +1,28 @@
+html{
+	font-size: 62.5%;
+	box-sizing: border-box;
+}
+body{
+	font-size: 1.6rem;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+
+main table{
+	border-collapse: collapse;
+	margin : 0 auto;
+}
+main table tr td{
+	border: 1px solid black;
+	width: 200px;
+    height: 50px;
+}
+input[type=button], 
+input[type=submit]{
+	border: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+main form div{
+	padding: 10px 0;
+}
